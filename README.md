@@ -19,5 +19,4 @@ with backend services.
 - **DevOps:** Docker, Git, Maven
 - **Frontend:** React, TypeScript, Tailwind CSS
 
-## 📌 Featured Projects
-👉 Check pinned repositories below ⬇️
+
