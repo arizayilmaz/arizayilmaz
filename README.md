@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ali Rıza Yılmaz
 
-<!--
-**arizayilmaz/arizayilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-Focused Full Stack Developer  
+Java | Spring Boot | Microservices | Event-Driven Systems
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I develop scalable and secure backend systems using Java (17+) and Spring Boot.
+I focus on microservices architectures, authentication & authorization (JWT, OAuth),
+event-driven systems, and performance-oriented backend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend-wise, I build modern UIs with React and TypeScript to integrate seamlessly
+with backend services.
+
+## 🧩 Tech Stack
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA
+- **Architecture:** Microservices, Event-Driven Architecture, SOLID
+- **Messaging & Cache:** RabbitMQ, Redis
+- **Database:** PostgreSQL
+- **DevOps:** Docker, Git, Maven
+- **Frontend:** React, TypeScript, Tailwind CSS
+
+## 📌 Featured Projects
+👉 Check pinned repositories below ⬇️
