@@ -12,7 +12,7 @@ Frontend-wise, I build modern UIs with React and TypeScript to integrate seamles
 with backend services.
 
 ## 🧩 Tech Stack
-- **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA
+- **Backend:** Java, Spring Boot, Spring Security, Hibernate, JPA, Python, FASTAPI
 - **Architecture:** Microservices, Event-Driven Architecture, SOLID
 - **Messaging & Cache:** RabbitMQ, Redis
 - **Database:** PostgreSQL
